@@ -26,9 +26,9 @@ const RESOURCES = {
 "fonts/AstroSpace.ttf": "5892adccd6c4b8c9e80f005e7eef06f2",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "c00d8e300f018c2c0cdc35dee5a87fdc",
-"/": "c00d8e300f018c2c0cdc35dee5a87fdc",
-"main.dart.js": "c873768727a2cdfb77c67e6eaefeafd4",
+"index.html": "05d7898a566c85a5d0b2e0fcd4365d7c",
+"/": "05d7898a566c85a5d0b2e0fcd4365d7c",
+"main.dart.js": "e7b1ccb10f5013bf9c4f948995b8b36a",
 "manifest.json": "eb9fa9a395ddef3e0705adc02e368a87",
 "style.css": "d92f7af692863290a67a9f4fcc3b1f38",
 "version.json": "90488955e0931f8914c37a1dd5d14a5b"
