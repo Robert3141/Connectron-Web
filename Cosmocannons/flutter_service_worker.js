@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1472d816a6facc2e1b8abc11522fa644",
+  "assets/AssetManifest.json": "8f29a477871896093edd69451beb31d7",
 "assets/assets/fonts/AstroSpace.ttf": "5892adccd6c4b8c9e80f005e7eef06f2",
 "assets/assets/images/1.png": "0ef91f29ca581be21b1238d0acc62545",
 "assets/assets/images/2.png": "f6488ff297999e741547d2081e243915",
@@ -12,6 +12,9 @@ const RESOURCES = {
 "assets/assets/images/5.png": "6cf5a880a3726fd80a1eaf23456c35a4",
 "assets/assets/images/6.png": "167c31a71654c5c3c3bcbbdb707f9426",
 "assets/assets/images/background.jpg": "29256e49f615523f92cbec82ba3cc412",
+"assets/assets/images/desert.png": "bd76924e91a2f0470456fcf6bab0bc1d",
+"assets/assets/images/hills.png": "fbd9b4307ba5809b67f901677550eeae",
+"assets/assets/images/moon.png": "bc2bfc91fa2160257a0139a939df7431",
 "assets/assets/music/1.ogg": "a2e8baf63c7d1a85fb1310328f7bb9df",
 "assets/assets/music/2.ogg": "e4e4bb25f78269f07738bd1fec83471d",
 "assets/assets/music/3.ogg": "dbf5305c9d32da0f3ba743bebe126b29",
@@ -26,9 +29,9 @@ const RESOURCES = {
 "fonts/AstroSpace.ttf": "5892adccd6c4b8c9e80f005e7eef06f2",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "67da314f961f934217ccf1d6e92f73d8",
-"/": "67da314f961f934217ccf1d6e92f73d8",
-"main.dart.js": "2646b61bcf7594a7b1b21082de063f5a",
+"index.html": "287fea9eab37808fa96f3628142a89f1",
+"/": "287fea9eab37808fa96f3628142a89f1",
+"main.dart.js": "0695ec00e81c9877711313f855c73b3e",
 "manifest.json": "eb9fa9a395ddef3e0705adc02e368a87",
 "style.css": "d92f7af692863290a67a9f4fcc3b1f38",
 "version.json": "90488955e0931f8914c37a1dd5d14a5b"
