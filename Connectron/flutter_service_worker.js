@@ -10,7 +10,7 @@ const RESOURCES = {
 "ic_launcher-web.png": "c1e6e702be3d6abea1d6133ca3a7ef68",
 "index.html": "272497d0d69f844aa19ef4824a1bbb44",
 "/": "272497d0d69f844aa19ef4824a1bbb44",
-"main.dart.js": "2de16e4a5ed542c94f0d68d2d821e7d0",
+"main.dart.js": "76c6e37fce05a9157f406d6b3e6d2ba3",
 "manifest.json": "8cced7f1a80a18863f85871167e706c6",
 "version.json": "ccb4ac3c98b0207d123a38fe02eb4afd"
 };
