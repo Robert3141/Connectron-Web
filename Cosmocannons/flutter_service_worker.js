@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8f29a477871896093edd69451beb31d7",
+  "assets/AssetManifest.json": "00512da352a6b8f862f807e867503458",
 "assets/assets/fonts/AstroSpace.ttf": "5892adccd6c4b8c9e80f005e7eef06f2",
 "assets/assets/images/1.png": "0ef91f29ca581be21b1238d0acc62545",
 "assets/assets/images/2.png": "f6488ff297999e741547d2081e243915",
@@ -24,14 +24,14 @@ const RESOURCES = {
 "assets/assets/music/LICENSE.txt": "b912078b7e19d6318e9840ecb234c839",
 "assets/FontManifest.json": "ac669f33d94496b85e3203eb46758554",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "dd0c9cce03336a4f02379cbc400c35ac",
+"assets/NOTICES": "686ee8907c4d4171dda1e92eaa1faea1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "fonts/AstroSpace.ttf": "5892adccd6c4b8c9e80f005e7eef06f2",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "8ae5af7b62ac24b51da900a6e39385a8",
-"/": "8ae5af7b62ac24b51da900a6e39385a8",
-"main.dart.js": "29d79d2e4a9c0cb6807f59e346408901",
+"index.html": "fd8a412748c76a63f27f25a034298169",
+"/": "fd8a412748c76a63f27f25a034298169",
+"main.dart.js": "7244f7c13a82c597f352db993516217f",
 "manifest.json": "eb9fa9a395ddef3e0705adc02e368a87",
 "style.css": "d92f7af692863290a67a9f4fcc3b1f38",
 "version.json": "90488955e0931f8914c37a1dd5d14a5b"
