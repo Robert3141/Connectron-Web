@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "00512da352a6b8f862f807e867503458",
+  "assets/AssetManifest.json": "9b23901c8399fd924bc12fa4a1738f33",
 "assets/assets/fonts/AstroSpace.ttf": "5892adccd6c4b8c9e80f005e7eef06f2",
 "assets/assets/images/1.png": "0ef91f29ca581be21b1238d0acc62545",
 "assets/assets/images/2.png": "f6488ff297999e741547d2081e243915",
@@ -13,8 +13,11 @@ const RESOURCES = {
 "assets/assets/images/6.png": "167c31a71654c5c3c3bcbbdb707f9426",
 "assets/assets/images/background.jpg": "29256e49f615523f92cbec82ba3cc412",
 "assets/assets/images/desert.png": "bd76924e91a2f0470456fcf6bab0bc1d",
+"assets/assets/images/help.jpg": "2eac84f2885fae95e0449a316fc86257",
 "assets/assets/images/hills.png": "fbd9b4307ba5809b67f901677550eeae",
+"assets/assets/images/left.png": "6295ff53bb78d131a06dfa45099e75ef",
 "assets/assets/images/moon.png": "bc2bfc91fa2160257a0139a939df7431",
+"assets/assets/images/player.png": "eb1f3e6b5ac9fd053db4c1962336c9b3",
 "assets/assets/music/1.ogg": "a2e8baf63c7d1a85fb1310328f7bb9df",
 "assets/assets/music/2.ogg": "e4e4bb25f78269f07738bd1fec83471d",
 "assets/assets/music/3.ogg": "dbf5305c9d32da0f3ba743bebe126b29",
@@ -24,13 +27,13 @@ const RESOURCES = {
 "assets/assets/music/LICENSE.txt": "b912078b7e19d6318e9840ecb234c839",
 "assets/FontManifest.json": "ac669f33d94496b85e3203eb46758554",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "1fad108489e123bdddba87ff33cbb1c4",
+"assets/NOTICES": "25f28eece8b241b88e25ce70acc868ed",
 "favicon.png": "86a70a609ed7233caf4fb51aa3c26b66",
 "fonts/AstroSpace.ttf": "5892adccd6c4b8c9e80f005e7eef06f2",
 "icons/Icon-192.png": "f6185b2289c76ee9c9e661471db2702e",
-"index.html": "c85d7c3f7fa54c9e1172c5ba35b90aff",
-"/": "c85d7c3f7fa54c9e1172c5ba35b90aff",
-"main.dart.js": "18d58f4789a4d7ae74fa5fd7b8d266a1",
+"index.html": "42ee0d7f42f5e50a7e2fb9e501d9f25a",
+"/": "42ee0d7f42f5e50a7e2fb9e501d9f25a",
+"main.dart.js": "e5198cb303ad908b6f8b6da57e7a46db",
 "manifest.json": "eb9fa9a395ddef3e0705adc02e368a87",
 "style.css": "d92f7af692863290a67a9f4fcc3b1f38",
 "version.json": "90488955e0931f8914c37a1dd5d14a5b"
