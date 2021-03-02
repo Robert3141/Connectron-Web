@@ -31,9 +31,9 @@ const RESOURCES = {
 "favicon.png": "86a70a609ed7233caf4fb51aa3c26b66",
 "fonts/AstroSpace.ttf": "5892adccd6c4b8c9e80f005e7eef06f2",
 "icons/Icon-192.png": "f6185b2289c76ee9c9e661471db2702e",
-"index.html": "343c876c11e3d8cdf1f993093cd5c122",
-"/": "343c876c11e3d8cdf1f993093cd5c122",
-"main.dart.js": "e5198cb303ad908b6f8b6da57e7a46db",
+"index.html": "55185bd4a547381dd9f25195e4c9476c",
+"/": "55185bd4a547381dd9f25195e4c9476c",
+"main.dart.js": "f067a7d13fe7e42e2fbe63f2ad24ac82",
 "manifest.json": "eb9fa9a395ddef3e0705adc02e368a87",
 "style.css": "d92f7af692863290a67a9f4fcc3b1f38",
 "version.json": "90488955e0931f8914c37a1dd5d14a5b"
