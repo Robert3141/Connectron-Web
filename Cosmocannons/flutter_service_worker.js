@@ -27,16 +27,16 @@ const RESOURCES = {
 "assets/assets/music/LICENSE.txt": "b912078b7e19d6318e9840ecb234c839",
 "assets/FontManifest.json": "ac669f33d94496b85e3203eb46758554",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "1a57cc8ba2cb59e8e018e73e524d9544",
+"assets/NOTICES": "b6f35665ad04d5f763c8526ea3bb8211",
 "favicon.png": "86a70a609ed7233caf4fb51aa3c26b66",
 "fonts/AstroSpace.ttf": "5892adccd6c4b8c9e80f005e7eef06f2",
 "icons/Icon-192.png": "f6185b2289c76ee9c9e661471db2702e",
-"index.html": "16bc4c29a20e6a26203ee2f141d64669",
-"/": "16bc4c29a20e6a26203ee2f141d64669",
-"main.dart.js": "6724c2577db04a0607b3f2522028df1a",
-"manifest.json": "eb9fa9a395ddef3e0705adc02e368a87",
+"index.html": "fb47a129e1d615ca92a90489cb135f7e",
+"/": "fb47a129e1d615ca92a90489cb135f7e",
+"main.dart.js": "f3e0fe6ee88d3da637bfc4f018de27a4",
+"manifest.json": "c61983cfd07d283cd547ffd092f6ad3f",
 "style.css": "d92f7af692863290a67a9f4fcc3b1f38",
-"version.json": "e5ab9f56702ee3f4ace8d4ecbc629383"
+"version.json": "233eccbad0dcaead09ad6367e79e694c"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -54,7 +54,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value, {'cache': 'reload'})));
+        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
     })
   );
 });
